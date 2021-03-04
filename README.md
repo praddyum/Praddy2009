@@ -2,23 +2,23 @@
     <tr>
     <td  align="center">
         <a href="https://twitter.com/Praddyum1">
-        <img align="left" alt="Praddyum | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+        <img align="left" alt="Praddyum | Twitter" width="22px" src="https://cdn4.iconfinder.com/data/icons/neon-social-icons-set/256/social_media_icons_neon_set_256x256_0002_twitter.png" />
         </a>
         <a href="https://www.linkedin.com/in/praddyum">
-        <img align="left" alt="Praddyum | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+        <img align="left" alt="Praddyum | LinkdeIN" width="22px" src="https://cdn4.iconfinder.com/data/icons/neon-social-icons-set/256/social_media_icons_neon_set_256x256_0010_linkedin.png" />
         </a>
         <a href="https://www.instagram.com/its_praddy">
-        <img align="left" alt="Praddyum | Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+        <img align="left" alt="Praddyum | Instagram" width="22px" height="22px" src="https://i1.wp.com/brainfartsy.com/wp-content/uploads/2018/07/instagram-neon-01.png" />
         </a>
         <a href="https://techx101.tech">
-        <img align="left" alt="Debanshu's Instagram" width="22px" height="22px" src="https://simpleicons.org/icons/bloglovin.svg" />
+        <img align="left" alt="Praddyums's Instagram" width="22px" height="22px" src="https://cdn2.iconfinder.com/data/icons/neon-line-social-circles/100/Neon_Line_Social_Circles_50Icon_10px_grid-06-256.png" />
         </a>
     </td>
     <tr>
 </table>
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/Debanshu777/Debanshu777/blob/main/giphy.gif" height=300 width=300/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height=300 width=300/>
 
 #### A little about me...  
 I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/)** pursuing CSSE. I love to explore new technologies 
