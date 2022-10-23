@@ -21,8 +21,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height=300 width=300/>
 
 #### A little about me...  
-I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/)** pursuing CSSE. I love to explore new technologies 
-and leverage them to solve real-life problems. Apart from that I also love to guide and 
+I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and 
 mentor newbies 👨🏻‍💻.
 
 
